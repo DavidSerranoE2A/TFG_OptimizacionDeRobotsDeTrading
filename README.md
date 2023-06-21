@@ -3,11 +3,11 @@ Repositorio que contiene el código usado para el desarrollo del Trabajo de Fin 
 
 #
 # Trabajo de Fin de Grado en Análisis de Negocios/ Business Analytics
-## Título: Optimización de Robots de Trading
+### Título: Optimización de Robots de Trading
 ### Autor: David Serrano González
 ### Director: Luis Ángel Calvo Pascual
 
-## Resumen:
+### Resumen:
 En un mundo en constante digitalización, los mercados financieros con su flujo incesante de datos han encontrado en las nuevas tecnologías de la información a sus mayores aliados. Los ordenadores, aportando su inigualable capacidad de cálculo, junto con diversos algoritmos y modelos de aprendizaje automático, están revolucionando la manera en la que estos datos son aprovechados. Esta combinación, está dando lugar a un mercado cada vez más automatizado en el que gradualmente los traders humanos están siendo desplazados en favor de sus contrapartes automatizadas, capaces de tomar decisiones rápidas sin los sesgos que un humano pudiera sufrir.
 
 Este trabajo se sumerge en esta realidad, explorando el desarrollo y optimización de diversos robots de trading. A lo largo del trabajo se desarrollan tanto robots derivados de estrategias de trading convencionales, como otros de modelos avanzados de aprendizaje automático, al mismo tiempo que se complementa este desarrollo con un análisis en profundidad del funcionamiento de los mismos.
