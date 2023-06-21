@@ -1,9 +1,11 @@
 # TFG_OptimizacionDeRobotsDeTrading
 Repositorio que contiene el código usado para el desarrollo del Trabajo de Fin de Grado en Análisis de Negocios: Optimización de Robots de Trading. Realizado por David Serrano González, alumno del doble grado en ADE y Business Analytics (E2 - Analytics) en la Universidad Pontificia Comillas (ICADE) y dirigido por Luis Ángel Calvo Pascual
 
-
-# Trabajo de Fin de Grado
+#
+# Trabajo de Fin de Grado en Análisis de Negocios/ Business Analytics
 ## Título: Optimización de Robots de Trading
+### Autor: David Serrano González
+### Director: Luis Ángel Calvo Pascual
 
 ## Resumen:
 En un mundo en constante digitalización, los mercados financieros con su flujo incesante de datos han encontrado en las nuevas tecnologías de la información a sus mayores aliados. Los ordenadores, aportando su inigualable capacidad de cálculo, junto con diversos algoritmos y modelos de aprendizaje automático, están revolucionando la manera en la que estos datos son aprovechados. Esta combinación, está dando lugar a un mercado cada vez más automatizado en el que gradualmente los traders humanos están siendo desplazados en favor de sus contrapartes automatizadas, capaces de tomar decisiones rápidas sin los sesgos que un humano pudiera sufrir.
